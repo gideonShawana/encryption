@@ -1,5 +1,5 @@
 # encryption
-This project shows how a message can be encrypted and demonstrate software security in python.
+This project shows how a message can be encrypted and demonstrates software security in Python.
 
 - Type a message
 - Type a number
